@@ -16,3 +16,9 @@ With the database mapped the company data is then imported into the data base in
 ## Results / Findings
 - 30.13% or 90,398 are eligible for retirement out of the 300,024 total employees.
 - Senior Engineer, Senior Staff and Engineer's are most likely close to retirement with 23.9% that is the largest share. 
+
+### Employees Eligible for Retirement
+- Of the 300,024 employees within the company, 90,398 (30.13%) are eligible for retirement. 
+- Senior Engineer, Senior Staff and Engineer's hold the largest share (23.9%) of employees likely preparing for retirement.
+- Development(with 25.45%),Production(with 22.30%) and Sales(with 7.27%) are the departments with the highest retirees.
+
