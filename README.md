@@ -22,3 +22,6 @@ With the database mapped the company data is then imported into the data base in
 - Senior Engineer, Senior Staff and Engineer's hold the largest share (23.9%) of employees likely preparing for retirement.
 - Development(with 25.45%),Production(with 22.30%) and Sales(with 7.27%) are the departments with the highest retirees.
 
+### Employees Eligible for Mentorship
+- Mentorship/training for an internal promotion is only available for 1549 employee who are qualified.
+
