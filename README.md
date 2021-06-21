@@ -25,3 +25,5 @@ With the database mapped the company data is then imported into the data base in
 ### Employees Eligible for Mentorship
 - Mentorship/training for an internal promotion is only available for 1549 employee who are qualified.
 
+## Summary
+The company Pewlett Hackard is most likely facing a 90,000 vacant positions in the company in the near future. Considering the low number of employees who are qualified for the mentorship/training for an internal promotion this will cause Pewlett hackard to face a serious deficit when the employees begin to retire in large number.
