@@ -12,3 +12,7 @@ In this project an analysis is performed on a large-scale number of employees da
 By creating ERD we are able to map the data process schema and the relationships this allows us to know how the data files interact with each other in the database.
 
 With the database mapped the company data is then imported into the data base in the csv format. Having the data imported and formatted within the data base, we can use SQL to retrieve the information from the data base. The database can be utilized by using custom filters and groupings, and by creating custom tables.
+
+## Results / Findings
+- 30.13% or 90,398 are eligible for retirement out of the 300,024 total employees.
+- Senior Engineer, Senior Staff and Engineer's are most likely close to retirement with 23.9% that is the largest share. 
